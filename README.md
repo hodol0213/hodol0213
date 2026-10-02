@@ -1,6 +1,4 @@
-<div align="center">
-
-# Hi, I'm Hoyong Ahn 👋
+# 안호용 - Backend, Data Engineer
 
 ### 데이터의 흐름을 이해하고, 서비스로 연결하는 개발자
 
@@ -14,8 +12,6 @@
   <a href="mailto:hodol0213@naver.com"><img src="https://img.shields.io/badge/Email-hodol0213%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email"></a>
   <a href="https://clever-honey-b91.notion.site/bbe720a6f6cb82ec918d01d5fa3608eb"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio"></a>
 </p>
-
-</div>
 
 ---
 
