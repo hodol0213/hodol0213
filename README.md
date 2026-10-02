@@ -1,4 +1,4 @@
-# 안호용 - Backend, Data Engineer
+# 안호용(An HoYong) - Backend, Data Engineer
 
 ### 데이터의 흐름을 이해하고, 서비스로 연결하는 개발자
 
